@@ -1,0 +1,66 @@
+Como encontrar palavras em uma sequência de 
+caracteres dado um Léxico?
+
+
+-> da frequência relativa das palavras de um corpus podemos inferir a probabilidade dessas palavras na língua. 
+
+-> se multiplicarmos as probabilidades de cada palavra em uma frase, chegamos à probabilidade da frase em um modelo de unigramas. 
+
+-> se somarmos as complexidades, chegamos à complexidade da frase em um modelo de unigramas.
+
+
+Nesse sentido, 
+- quanto mais elementos em uma frase, maior a complexidade dela
+- quanto menos frequentes os elementos de uma frase, maior a complexidade dela
+
+
+Programação dinâmica:
+
+entrada: "issoélegal"
+saída: "isso é legal"
+
+ issoélegal
+      ^
+ issoél : n
+  ssoél : n
+   soél : n
+    oél : n
+     él : n
+      l : n
+
+  [i ,s ,s ,isso,é , l  ,e   ,g   ,a   ,legal]
+[0,12,30,48,9   ,16,1016,1020,2020,2024,36   ]
+  [legal, é, isso]
+  [isso, é, legal]
+  "isso é legal"
+
+
+aminhafrase
+^
+a
+
+aminhafrase
+ ^
+am
+ a
+
+aminhafrase
+    ^
+aminh
+ minh
+  inh
+   nh
+    h
+
+
+
+
+
+
+
+
+
+
+
+
+

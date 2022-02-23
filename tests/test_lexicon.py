@@ -1,7 +1,6 @@
 import unittest as ut
 from chunker_dm.lexicon import Lexicon, ProbabilityLexicon, ComplexityLexicon
 
-
 class TestLexicon(ut.TestCase):
 
   def test_lexicon_adds_tokens_from_text(self):
@@ -44,6 +43,12 @@ class TestProbabilityLexicon(ut.TestCase):
     self.assertEqual(pdict["uma"], 0.5)
     
 class TestComplexityLexicon(ut.TestCase):
+
+  def test_returns_null_when_token_not_found(self):
+    clex = ComplexityLexicon()
+    clex.add("Uma frase.")
+    self.assertTrue(clex.complexity("frase"))
+    self.assertFalse(clex.complexity("cachorro"))
  
   def test_gets_complexity_dict(self):
     clex = ComplexityLexicon()

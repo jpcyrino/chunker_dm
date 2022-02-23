@@ -34,6 +34,9 @@ class ProbabilityLexicon(Lexicon):
 class ComplexityLexicon(ProbabilityLexicon):
 
   def complexity(self, token):
+    if self.frequency(token) == 0: 
+      return None  
+
     return -log(self.probability(token),2)
     
   def complexity_dict(self):
