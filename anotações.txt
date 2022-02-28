@@ -53,12 +53,36 @@ aminh
     h
 
 
+Algoritmo do Chunker:
+
+
+# Léxico contendo a complexidade de cada caractere do corpus. Novos itens serão adicionados a ele da seguinte forma: 
+
+    1. Unir os itens adjacentes e contar suas ocorrências em um Léxico de candidatos.
+    2. Acrescentar os K candidatos mais frequentes ao Léxico oficial.
+    3. Analisar o texto utilizando as frequências provisórias. 
+    4. Recalcular as frequências dos itens lexicais. 
+
+# Somar: comprimento do léxico + comprimento do corpus
+# Verificar diminuição
 
 
 
+## Léxico do Chunker
+-> As frequências/complexidades dos caracteres
+-> Adicione novas palavras a partir do texto (ignorando os caracteres isolados)
+-> Meça o tamanho do léxico baseado nas novas palavras. 
 
+-> Léxico de caracteres (imutável)
+-> Léxico de palavras (mutável a cada iteração). 
 
+## Junção de pares para alimentar o léxico com novas palavras. 
+-> Juntar cada par de palavras do corpus. 
+-> pegar a frequência de cada par e eleger X pares para serem adicionados ao léxico
+-> esses X pares vão entrar em um léxico de complexidade para reanálise do corpus
+-> essa reanálise do corpus gerará um novo Léxico do Chunker. 
 
+## Como funciona a adição de tokens nos léxicos que temos atualmente?
 
 
 
