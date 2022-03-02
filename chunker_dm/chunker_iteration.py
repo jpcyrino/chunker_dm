@@ -1,5 +1,6 @@
 from chunker_dm.chunker_lexicons import NewVocabularyLexicon, ChunkerLexicon
-from analyser import Analyser
+from chunker_dm.analyser import Analyser
+from collections import Counter
 
 
 class ChunkerIteration():
@@ -10,13 +11,13 @@ class ChunkerIteration():
 		self.corpus = corpus # corpus precisa ser uma lista de frases, lista de palavras
 		self.length_of_parse = 0
 
-	def _parse_for_new_candidates(self):
-		parser_for_new_candidates = Analyser(lexicon=self.chunker_lexicon)
+	def _parse_for_new_candidates(self, lexicon):
+		parser_for_new_candidates = Analyser(lexicon)
 		results = []
 		for sentence in self.corpus:
 			parse = parser_for_new_candidates.analyse(sentence)
 			results.append(parse)
-			self.length_of_parse += parse.total_cost
+			self.length_of_parse += parser_for_new_candidates.total_cost
 		return results
 
 	def _create_new_vocabulary(self, list_of_parse_results, n_of_candidates): 
@@ -24,7 +25,7 @@ class ChunkerIteration():
 		for parse_results in list_of_parse_results:
 			results_of_join = []
 			for i in range(0,len(parse_results),2):
-				if i = len(parse_results)-1: 
+				if i == len(parse_results)-1: 
 					results_of_join.append(parse_results[i])
 				else:
 					results_of_join.append(parse_results[i] + parse_results[i+1])
@@ -41,7 +42,7 @@ class ChunkerIteration():
 		return lexicon
 
 	def _parse_with_new_vocabulary(self, lexicon_with_new_vocabulary):
-		parser = Analyse(lexicon=lexicon_with_new_vocabulary)
+		parser = Analyser(lexicon=lexicon_with_new_vocabulary)
 		results = []
 		for sentence in self.corpus:
 			results.append(parser.analyse(sentence))
@@ -50,7 +51,7 @@ class ChunkerIteration():
 	def _create_lexicon_for_new_iteration(self, second_parse_results):
 		lexicon = self.chunker_lexicon.clone_for_new_iteration()
 		for tokens in second_parse_results:
-			lexicon.add(tokens)
+			lexicon.add_from_list(tokens)
 		return lexicon
 
 	def start(self, n_of_candidates):
@@ -59,8 +60,8 @@ class ChunkerIteration():
 		lexicon_for_second_parse = self._create_new_vocabulary_lexicon(old_vocabulary, new_vocabulary)
 		second_parse = self._parse_with_new_vocabulary(lexicon_for_second_parse)
 		new_lexicon = self._create_lexicon_for_new_iteration(second_parse)
-		parse_with_new_lexicon_parse = self.parse_for_new_candidates()
-		return (new_lexicon, parse_with_new_lexicon, { 
+		parse_with_new_lexicon_parse = self._parse_for_new_candidates(new_lexicon)
+		return (new_lexicon, parse_with_new_lexicon_parse, { 
 			"lexicon_length" : new_lexicon.get_size(),
 			"corpus_length" : self.length_of_parse,
 			"model_length" : new_lexicon.get_size() + self.length_of_parse

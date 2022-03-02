@@ -15,15 +15,22 @@ class ChunkerLexicon(ComplexityLexicon):
 
 	def __init__(self, tokenizer=Tokenizer):
 		self.lexicon = Counter()
-		self.Tokenizer = tokenizer
-		self.size = 0
-
-	def create_character_dict(self, text):
-		tokenizer = self.Tokenizer(text)
-		tokens = tokenizer.getTokens()
 		self.character_dict = Counter()
-		for token in tokens: 
-			self.character_dict.update(list(token))
+		self.Tokenizer = tokenizer
+
+	# def frequency_dict(self):
+	   #	frequencies = Counter()
+	   #    frequencies.update(self.lexicon)
+	   #    frequencies.update(self.character_dict)
+	   #    return dict(frequencies)
+
+	def create_character_dict(self, corpus):
+		self.character_dict = Counter()
+		for sentence in corpus: 
+			tokenizer = self.Tokenizer(sentence)
+			tokens = tokenizer.getTokens()
+			for token in tokens: 
+				self.character_dict.update(list(token))
 
 	def clone_for_new_iteration(self):
 		lexicon = ChunkerLexicon()
@@ -40,10 +47,12 @@ class ChunkerLexicon(ComplexityLexicon):
 		return size
 
 	def get_size(self):
-		return self.size
+		size = 0
+		for token in self.lexicon:
+			if len(token) > 1:
+				size += self.complexity(token)
+		return size
 
 	def add_from_list(self, parse_results):
-		for token in parse_results: 
-			if len(token) > 1:
-				self.size += self._size_of_word(token)
-			self.lexicon.update(token)
+		for token in parse_results:
+			self.lexicon.update([token])
