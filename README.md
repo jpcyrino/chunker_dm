@@ -39,3 +39,7 @@ Exemplo (morfológico):
 ```
     python -m chunker texto.txt 50 morph
 ```
+
+O chunker gerará dois arquivos:
+lexicon.csv: o léxico contendo os itens lexicais encontrados seguido do logaritmo positivo de sua probabilidade no corpus
+details.csv: métricas do parser
