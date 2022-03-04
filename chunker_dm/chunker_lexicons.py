@@ -1,6 +1,6 @@
 from collections import Counter
-from chunker_dm.tokenizer import Tokenizer
-from chunker_dm.lexicon import ComplexityLexicon
+from .tokenizer import Tokenizer
+from .lexicon import ComplexityLexicon
 from math import log
 
 

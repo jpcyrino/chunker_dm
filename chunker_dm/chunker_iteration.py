@@ -1,6 +1,7 @@
-from chunker_dm.chunker_lexicons import NewVocabularyLexicon, ChunkerLexicon
-from chunker_dm.analyser import Analyser
+from .chunker_lexicons import NewVocabularyLexicon, ChunkerLexicon
+from .analyser import Analyser
 from collections import Counter
+from time import process_time
 
 
 class ChunkerIteration():
@@ -55,16 +56,19 @@ class ChunkerIteration():
 		return lexicon
 
 	def start(self, n_of_candidates):
+		start = process_time()
 		new_vocabulary = self._create_new_vocabulary(self.initial_parse, n_of_candidates)
 		old_vocabulary = self.chunker_lexicon.frequency_dict()
 		lexicon_for_second_parse = self._create_new_vocabulary_lexicon(old_vocabulary, new_vocabulary)
 		second_parse = self._parse_with_new_vocabulary(lexicon_for_second_parse)
 		new_lexicon = self._create_lexicon_for_new_iteration(second_parse)
 		parse_with_new_lexicon_parse = self._parse_for_new_candidates(new_lexicon)
+		end = process_time()
 		return (new_lexicon, parse_with_new_lexicon_parse, { 
 			"lexicon_length" : new_lexicon.get_size(),
 			"corpus_length" : self.length_of_parse,
-			"model_length" : new_lexicon.get_size() + self.length_of_parse
+			"model_length" : new_lexicon.get_size() + self.length_of_parse,
+			"time_elapsed" : end-start
 			})
 
 

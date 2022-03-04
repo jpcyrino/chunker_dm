@@ -1,6 +1,6 @@
 from collections import Counter
 from math import log
-from chunker_dm.tokenizer import Tokenizer
+from .tokenizer import Tokenizer
 
 class Lexicon():
 

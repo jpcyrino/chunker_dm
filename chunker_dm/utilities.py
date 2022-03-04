@@ -1,4 +1,4 @@
-from chunker_dm.lexicon import ComplexityLexicon
+from .lexicon import ComplexityLexicon
 
 def create_lexicon_from_text_file(file_name, LexiconClass=ComplexityLexicon):
 	chunkList = open(file_name, 

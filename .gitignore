@@ -8,7 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-scripts/
+Scripts/
 build/
 develop-eggs/
 dist/
@@ -145,6 +145,10 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# csv
+*.csv
+examples_restr/
 
 # PyCharm
 #  JetBrains specific template is maintainted in a separate JetBrains.gitignore that can
