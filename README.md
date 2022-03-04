@@ -25,21 +25,26 @@
 ## Executar:
 
 ```
-    python -m chunker <nome_do_arquivo.txt> <número de iterações> <morph>
+    python -m chunker <nome_do_arquivo.txt> <número de iterações> <número de novas plavras> <morph>
 ```
 
 Caso queira fazer parser morfológico, utilizar o parâmetro *morph*:
 
 Exemplo: 
 ```
-    python -m chunker texto.txt 50 
+    python -m chunker texto.txt 50 25
 ```
 
 Exemplo (morfológico):
 ```
+<<<<<<< Updated upstream
     python -m chunker texto.txt 50 morph
 ```
 
 O chunker gerará dois arquivos:
 lexicon.csv: o léxico contendo os itens lexicais encontrados seguido do logaritmo positivo de sua probabilidade no corpus
 details.csv: métricas do parser
+=======
+    python -m chunker texto.txt 50 50 morph
+```
+>>>>>>> Stashed changes

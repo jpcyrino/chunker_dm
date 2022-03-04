@@ -14,7 +14,7 @@ class Chunker():
 		return prepared
 
 	def _prepare_corpus_morphology(self):
-		prepared = self.corpus.replace("-"," ")
+		prepared = self.corpus.replace("-","")
 		prepared = regex.sub(r"\s+"," ",prepared)
 		prepared = regex.split(r"[\s.,;:!?\n]",prepared)
 		return prepared
