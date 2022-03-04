@@ -37,14 +37,21 @@ Exemplo:
 
 Exemplo (morfológico):
 ```
-<<<<<<< Updated upstream
-    python -m chunker texto.txt 50 morph
+    python -m chunker texto.txt 50 25 morph
 ```
 
 O chunker gerará dois arquivos:
-lexicon.csv: o léxico contendo os itens lexicais encontrados seguido do logaritmo positivo de sua probabilidade no corpus
-details.csv: métricas do parser
-=======
-    python -m chunker texto.txt 50 50 morph
+
+- lexicon.csv: o léxico contendo os itens lexicais encontrados seguido do logaritmo positivo de sua probabilidade no corpus
+- details.csv: métricas do parser
+
+
+
+## ocun.py
+
+Prepara arquivos do ocun:
+
 ```
->>>>>>> Stashed changes
+    python -m ocun <arquivo_entrada> <arquivo_saida>
+```
+```
