@@ -40,12 +40,24 @@ Exemplo (morfológico):
     python -m chunker texto.txt 50 25 morph
 ```
 
-O chunker gerará dois arquivos:
+O chunker gerará três arquivos:
 
 - lexicon.csv: o léxico contendo os itens lexicais encontrados seguido do logaritmo positivo de sua probabilidade no corpus
+- lexicon.txt: os morfemas descobertos
+- segmented.txt: a lista de palavras segmentadas
+
+
+## Exemplo com os dados do Kikongo:
+
+```
+    python -m chunker kikongo.txt 25 80 morph
+```
+
+Gerará três arquivos:
+
 - details.csv: métricas do parser
-
-
+- lexicon.txt: os morfemas descobertos
+- segmented.txt: a lista de palavras segmentadas
 
 ## ocun.py
 

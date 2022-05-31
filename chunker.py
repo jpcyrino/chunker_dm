@@ -14,10 +14,11 @@ def chunk(file, n_iterations=20, n_new_words=25, morph=False):
 
 
 def results_to_csv(lexicon, details):
-	with open("lexicon.csv", encoding="utf-8", mode="w") as lexicon_file: 
-		writer = csv.writer(lexicon_file)
+	with open("lexicon.txt", encoding="utf-8", mode="w") as lexicon_file: 
+		# writer = csv.writer(lexicon_file)
 		for key, value in dict(lexicon).items():
-			writer.writerow([key, value])
+			# writer.writerow([key, value])
+			lexicon_file.write(key + "\n")
 
 	with open("details.csv", encoding="utf-8", mode="w") as details_file:
 		keys = details[0].keys()
