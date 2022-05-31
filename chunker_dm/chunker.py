@@ -38,7 +38,7 @@ class Chunker():
 				details["delta"] = 0
 			self.details.append(details)
 			print(details)
-		return lexicon
+		return lexicon, parse
 
 	def start(self, morph=False, n_iterations=50, n_new_words=25):
 		if morph:

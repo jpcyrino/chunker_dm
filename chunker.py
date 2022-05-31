@@ -7,10 +7,10 @@ def chunk(file, n_iterations=20, n_new_words=25, morph=False):
 	corpus = open(file, encoding="utf-8", mode="r").read()
 	ch = Chunker(corpus)
 	start = process_time()
-	lexicon = ch.start(morph=morph, n_iterations=n_iterations, n_new_words=n_new_words)
+	lexicon, parse = ch.start(morph=morph, n_iterations=n_iterations, n_new_words=n_new_words)
 	end = process_time()
 	print("O chunker levou " + str(end-start) + " segundos para rodar")
-	return lexicon.lexicon, ch.details
+	return lexicon.lexicon, ch.details, parse
 
 
 def results_to_csv(lexicon, details):
@@ -25,6 +25,11 @@ def results_to_csv(lexicon, details):
 		dict_writer.writeheader()
 		dict_writer.writerows(details)
 
+def parse_to_txt(parse):
+	with open("segmented.txt", encoding="utf-8", mode="w") as parse_file:
+		for word in parse: 
+			parse_file.write('-'.join(word) + '\n')
+
 if __name__ == "__main__":
 	file = sys.argv[1]
 	iterations = 20
@@ -36,5 +41,6 @@ if __name__ == "__main__":
 		iterations = sys.argv[2]
 		n_new_words = sys.argv[3]
 		morph = True if sys.argv[4] == "morph" else False
-	lexicon, details = chunk(file, n_iterations=int(iterations), morph=morph, n_new_words=n_new_words)
+	lexicon, details, parse = chunk(file, n_iterations=int(iterations), morph=morph, n_new_words=int(n_new_words))
 	results_to_csv(lexicon, details)
+	parse_to_txt(parse)
