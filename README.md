@@ -59,6 +59,14 @@ Gerará três arquivos:
 - lexicon.txt: os morfemas descobertos
 - segmented.txt: a lista de palavras segmentadas
 
+## Avaliação do modelo com dados do ocun:
+
+```
+    python -m evaluate daw.txt 
+```
+
+Exibirá os parâmetros para 10, 25, 50, 100, 500, 1000, 5000 e 10000 novos morfemas por iteração
+
 ## ocun.py
 
 Prepara arquivos do ocun:

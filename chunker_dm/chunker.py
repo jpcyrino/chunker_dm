@@ -33,11 +33,12 @@ class Chunker():
 			lexicon, parse, details = ci.start(n_new_words)
 			if len(self.details) > 0:
 				delta = details["model_length"] - self.details[-1]["model_length"]
+				if delta == 0: break
 				details["delta"] = delta
 			else:
 				details["delta"] = 0
 			self.details.append(details)
-			print(details)
+			#print(details)
 		return lexicon, parse
 
 	def start(self, morph=False, n_iterations=50, n_new_words=25):
