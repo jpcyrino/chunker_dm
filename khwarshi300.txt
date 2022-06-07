@@ -1,0 +1,600 @@
+kand-i kartoška lol-i
+girl.OBL-ERG potato.ABS boil-PST.W
+‘The girl boiled a potato/potatoes.’
+kand-i kartoška-ba lol-i
+girl.OBL-ERG potato-PL.ABS boil-PST.W
+‘The girl boiled several potatoes.’
+m-ok’-un zor boc’-ɣo-l
+III-go-PST.UW fox(III).ABS wolf.OBL-APUD-LAT
+‘The fox went to the wolf.’
+uže išet’lo lIʎ’e ʎIs-i
+boy.ABS mother.GEN2 in.hand sleep-PST.W
+‘The boy has fallen asleep in the mother’s hands.’
+b-eč-In hos biskina-b uže-n obu-n
+HPL-be-PST.UW one poor-HPL boy(I).ABS-AND father(I).ABS-AND
+‘There lived a poor father and a son.’
+išet’-i bušne b-i-še goli
+mother.OBL-ERG bread(III).ABS III-do-PRS be.PRS
+‘The mother makes the bread.’
+idu ɣine iló toxtur y-eč-i
+this woman(II).ABS 1PL.GEN1 doctor.ABS II-be-PST.W
+‘This woman was our doctor.’
+užá qodo-qo lak l-ex-i
+boy.OBL.ERG wall.OBL-CONT paint(IV).ABS IV-touch-PST.W
+‘The boy colored the wall with the paint.’
+de uža-la k’ant’a l-ek’ʷ-i
+1SGERG boy.OBL-GEN2 stick(IV).ABS IV-hit-PST.W
+‘I hit the boy with the stick.’
+isx-in hobože xan-i izzuqo židułi heč’č’e hunar gollu žik’o hibo-k goli ʎɨn
+ask-PST.UW now khan-ERG that.PL(P).CONT that.PL(D).INTER most feat be.PRS.PTCP man what-QUES be.PRS QUOT
+‘The khan asked which of them is most talented for the feat.’
+qˤe-y-i ɣon-o-s qˤʷelʲ xˤuxˤ-i
+rabbit-EP-ERG tree-OBL-GEN1 bark nibble-PST.W
+‘The rabbit nibbled the bark of the tree.’
+can-a box l-ac’-i
+she.goat-OBL.ERG grass(IV) IV-eat-PST.W
+‘The she-goat ate the grass.’
+ise užá xexiłin y-uⁿq-un idu yašk’a
+that.OBL boy.OBL.ERG immediately V-close-PST.UW this box(V).ABS
+‘That boy closed the box quickly.’
+obu-t’-i lɨdo b-ɨt’-x-i
+father-OBL-ERG firewood(III) III-divide-CAUS-PST.W
+‘The father chopped the firewood.’
+em-mo m-eg-an m-eg-un žik’o ø-uwox-i
+post-OBL.ERG III-fall-RED III-fall-PFV.CVB man(I) I-kill-PST.W
+‘Having fallen, the post killed the man.’
+hada žik’o-s eⁿs b-ɨt’-x-in b-eč-ɨn
+one.OBL man-GEN1 ox(III) III-divide-CAUS-PFV.CVB III-be-PST.UW
+‘The ox of one man was stolen.’
+hos heč’č’e y-uq’ˤq’ˤu y-ek’l-un čamassek’-lo hast’ina-ma-li
+one most II-big II-fall-PST.UW date-GEN2 trough.OBL-IN-LAT
+‘The eldest one fell into the trough of dates.’
+obu-t’-ɨs tubi
+father-OBL-GEN1 gun
+‘father’s gun’
+obu-t’-ɨs ɨs
+father-OBL-GEN1 sibling
+‘father’s sibling’
+ise žulik-lo t’uqˤ haʎ-i
+that.OBL.ERG cheater-GEN2 knife hit-PST.W
+‘He hit the cheater with the knife.’
+iłe kand-i muše gollo sapuno-z usan-un idu yuq’ˤuč’e
+that.OBL girl.OBL-ERG smell be.PRS.PTCP.OBL soap.OBL-INST bathe-PST.W this old.woman
+‘That girl bathed the old woman with the good smelling soap.’
+q’ˤʷanaɣaužaz c’alid-a b-iq’-dow ut’ana kaɣataʎ’a kˤabˤa šaq’i-z qʷa-gu xat’ b-eč-i
+two.APUD.TRANSL read-INF III-know-GNT.PTCP red letter.SUP black ink-INSTR write-PST.PTCP handwriting(III) III-be-PST.W
+‘There was the handwriting written with black ink on a red piece of paper (written) from both sides.’
+hada buco-z de ɣudul n-ež-i
+one.OBL month.OBL-INST 1SG.ERG garden(IV) IV-sow-PST.W
+‘I sowed a garden in a month.’
+hada buco-d de ɣudul n-ež-i
+one.OBL month.OBL-DUR 1SG.ERG garden(IV) IV-sow-PST.W
+‘I sowed a garden for a month.’
+hobonezi leʎʎ-u žu eⁿłala buco-d ʎ’olo-l ø-ah-l-un-ay
+there.ABL be.ill-PST.PTCP that.ABS six.OBL month.OBL-DUR above-LAT I-stand-POT-PST.UW-NEG
+He became ill there and was in bed for six months.’
+b-ux-le hadam-i-yu dilʲlʲo eze-l hos himon n-eʎ’-un l-eɣ-o žu himon
+HPL-come-IMP people-EP-VOC 1SG.GEN2 in.the.eye-LAT one thing(IV) IV-go-PST.UW IV-take-IMP that.ABS thing(IV)
+‘Hey people, come, there is something in my eye, take it out.’
+dub-ʎeru do-n šuk-i
+2SG.OBL-CAUSAL 1SG.ABS-AND beat-PST.W
+‘And I was beaten because of you.’
+dub-ʎeru di-lʲ-in os b-oq-i
+2SGOBL-CAUSAL 1SGOBL-LAT-AND money(III) III-get-PST.W
+‘I got the money thanks to you.’
+ono ɣon-o-ʎ’o heⁿhe b-eč-un
+there tree-OBL-SUP pear(III) III-be-PST.UW
+‘There were pears on the tree.’
+ø-ot’q’-i Mandžuriya-ʎ’a ø-ečč-u pulemetčik ručnoy lol-bo-n l-uwōx-un
+I-come-PST.W Manchuria-SUP I-be-PST.PTCP machine.gunner(I) manual leg.OBL-PL.ABS-AND NHPL-kill-PFV.CVB
+‘The manual machine gunner who was in Manchuria came back having hurt his legs.’
+ɣon-ʎ’o ʎʷade goli
+tree-SUP raven be.PRS
+‘There is a raven on the tree.’
+ɣon-ʎ’o ʎ’olo ɣʷade goli
+tree-SUP above raven be.PRS
+‘There is a raven on the top of the tree.’
+uža-ʎ’a co Muħamad l-eč-un
+boy.OBL-SUP name(IV) Magomed IV-be-PST.UW
+‘The boy's name was Magomed.’
+uⁿq’e-la-ʎ’a iʎ-o idu himon ʎɨn iʎ-in bazargan-i
+four-OBL-SUP give-IMP this thing QUOT say-PST.UW tradesman-ERG
+‘“Give this thing for four (rubles),” the tradesman said.’
+žu ɣine c’aq’ isuʎ’o buž-un y-eč-un
+that.ABS woman(II) very that.SUP believe-PFV.CVB II-be-PST.UW
+‘That woman believed him very much.’
+kandɨl žu himon lok’o-ʎ’o l-eč-i
+girl.LAT that.ABS thing(IV) heart-SUP IV-be-PST.W
+‘The girl remembered about it.’
+Qurban Nazir-ʎ’o-zi-n lebala-w goli
+Kurban(I) Nazir-SUP-ABL-AND brave-I be.PRS
+‘Kurban is braver than Nazir.’
+iso xuy tuqq-u ʎar-la ɣiná lac’alas podnos karavatɨʎ gɨł gul-un
+that.GEN1 noise hear-PST.PTCP kunak-GEN2 wife.OBL.ERG food.GEN1 plate bed.SUB under put-PST.UW
+‘When the kunak’s wife heard his noise, she put the plate with food under the bed.’
+ø-ot’q’-un nartaw hobołe ɣono-ʎ izzu-č b-eč-un
+I-come-PST.UW giant(I).ABS there.OBL tree.OBL-SUB that.PL.(P)ABS-EMPH HPL-be-PFV.CVB
+‘The giant came there while they were sitting under the tree.’
+ise xan-la lolu-ʎ n-eʎ’-un muhu-bo
+that.OBL khan-GEN2 leg.OBL-SUB NHPL-go-PST.UW grain-PL.ABS
+‘The grains went under the khan’s leg.’
+dudu-n soyro-ʎ iʎʎ-u baha-n tuʎ-un raził-ok’-un idu obu nartaw-i
+how-AND horse-SUB give-PST.PTCP price-AND give-PFV.CVB agree-CAUS-PST.UW this father giant-ERG
+‘The iant made the father aree, offerin (him) the same price as for the horse.’
+bercina-y-in goli y-oɣo mo aq-ɨʎ roq’q’-un goli dilʲ goq-i žu kad
+beautiful-II-AND be.PRS II-hey 2SG.ABS house-SUB get.right-PFV.CVB be.PRS 1SG.LAT love-PST.W that.ABS girl
+‘Hey, (she) is beautiful, and suitable for the house, I liked that girl.’
+idu-n exena-ma-ɣul kul-un y-oⁿk’-a y-eq-un łiłuk’a
+this-AND pillow.OBL-IN-VERS throw-PST.UW II-go-INF II-begin-PST.UW witch(II).ABS
+‘The witch threw him into the pillow and began to go.’
+iʎ-in had-qa-l ze gollo gˤanda-ma-l q’ˤem l-ešt’-o ʎɨn
+say-PST.UW one.OBL-CONT-LAT bear be.OBL.PRS.PTCP pit.OBL-IN-LAT head(IV) IV-let-IMP QUOT
+‘They said to one man to put the head into the pit where the bear was.’
+isu-l b-ak-un łe-ł gił eⁿš l-ešt’-ɨn liʎ’a-n b-oq-un-ay
+that.OBL-LAT III-see-PST.UW water.OBL-INTER down apple(III).ABS IV-let-PST.UW hand(IV).ABS-AND III-catch-PST.UW-NEG
+‘He saw an apple in the water, let out his hand (to catch the apple), but didn’t catch it.’
+armi-ł ø-oⁿk’-i ilʲó q’ʷinequ-n łino žik’o hobode aʎ-a-zi
+army-INTER I-go-PST.W 1PLGEN1 forty-AND five man(I) here village-IN-ABL
+‘Forty-five men went to the army from our village.’
+hobot’un homonu huⁿnza-ł bɨʎ’-ɨn posu-n ɣolo-n ihoʎ-un xristan-ba b-eč-un
+like.this such mountain.PL.OBL-INTER herd-AND cows-AND cattle-AND pasture-PFV.CVB Christian-PL.ABS HPL-be-PST.UW
+‘So in the mountains the Christians were pasturing their sheep and cows.’
+do aʎ-a y-eč-i
+1SG.ABS village-IN II-be-PST.W
+II-be-PST.W ‘I (female) was in the village.’
+aʎał l-oʎonuqa goli iłes aq
+village.INTER IV-in.center be.PRS that.GEN1 house(IV)
+‘Her house is in the center of the village.’
+t’it’ihú b-ez-un eⁿču eču-ł hadal iłe-lo k’ak’a-qa-n y-oⁿc-un gollu oⁿče-č huho-n y-ez-un
+hawk.OBL.ERG III-take-PFV.CVB hen(III).ABS hen(III)-INTER together that.OBL-GEN2 leg-CONT-AND V-tie-PFV.CVB be.PRS.PTCP nine-COLL chick(V).ABS-AND V-take-PST.UW
+‘The hawk took the hen with nine chicks that were tied to her leg.’
+q’ˤbinequn uⁿq’e-iʎʎo ʎiba-ł gočid-ok’-i čačan-za
+forty four-OBL.ORD year.OBL-INTER drive-CAUS-PST.W Chechen-PL.OBL
+‘In (19)44 the Chechens were driven away (i.e. from their place).’
+q’ˤbinequn uⁿq’e-iʎʎu-ł gočid-ok’-i čačan-za
+forty four-ORD-INTER drive-CAUS-PST.W Chechen-PL.OBL
+‘In (19)44 the Chechens were driven away (i.e. from their place).’
+mičaha-b ahlu-s uže ~olaʎa y-eɣ-še ʎun b-eq-un haq’u-q’ala isuho
+rich-HPL family-GEN1 boy be.PRS.ANTR II-take-PRS QUOT III-happen-PST.UW family-children that.AD
+‘As he was from the rich family, relatives decided to marry (the girl).’
+y-oⁿk’-un abaxar yuq’ˤuč’eɣol-in uq’ˤuč’eɣol-in iłeɣol madaul žu kad y-ešt’-o ʎɨn
+II-go-PST.UW neighbor(II) old.woman.APUD.LAT-AND old.man.APUD.LAT-AND that.APUD.LAT outside.VERS that.ABS girl(II) II-let-IMP QUOT
+‘The neighbor went to the grandmother and grandfather, asking to let the girl go outside with her.’
+t’ɨka-n b-aqˤqˤ-un isuɣo puho ono
+he.goat(III)-AND III-lie.CAUS-PST.UW that.APUD side.AD there
+‘(He) laid (his) he-goat near him.’ [7Friends] (lit. ‘near his side’)
+b-eɣ-un hobołe zor-ʎ’o-zi qoʎu b-ič-in qoʎu q’ˤʷana-ɣa-l
+III-take-PFV.CVB that.OBL fox-SUP-ABL skin(III) III-cut-PST.UW skin(III) two.OBL-APUD-LAT
+‘They took the skin from the fox and cut the skin in two.’
+b-og b-oło bolo-qo-l boc’o łuɣ-aʎa goʎ’-un zor-i łiłuk’a
+III-good III-alike.OBL ice-CONT-LAT wolf(III) stick-ANTR call-PST.UW fox-ERG witch
+‘When the wolf was frozen good enough to the ice, the fox called the witch.’
+kad hada em-qo y-oⁿc-un y-eč-i
+girl(II).ABS one.OBL column-CONT II-tie-PFV.CVB II-be-PST.W
+‘The girl was tied to the column.’ [3Princes.074] (e.g. the girl was tied with the rope to the column but at some distance from it)
+me is-o di-qo dubo heč’č’e nucaha-r liʎ na-sa-k goli ʎIn iʎ-in boc’i
+2SG.ERG tell-IMP 1SG.OBL-CONT 2SG.GEN1 very tasty-IV meat(IV).ABS where-DEF-QUES be.PRS QUOT say-PST.UW wolf(III).OBL.ERG
+‘“You tell me, where is your most tasty meat?” the wolf said.’
+isu-lo tɨr-mo-qo-l gɨc’-aʎa c’aq’ ø-uʎ’-un idu žik’o
+that.OBL-GEN2 sword-OBL-CONT-LAT look-ANTR very I-fear-PST.UW this man(I).ABS
+‘When he looked at his sword, he got scared.’
+baba-qa os goli
+mother-CONT money.ABS be.PRS
+‘The mother has money.’ (lit. ‘The mother has money with her.’)
+baba-s os goli
+mother-GEN1 money.ABS be.PRS
+‘The mother has money.’
+qˤoʎa-qa-z ɣay-in b-ok’-i
+pelt.OBL-CONT-ABL house(III)-AND III-burn-PST.W
+‘The house burnt because of the pelt.’
+Mariyam-qa t’u b-ič’-l-i
+Mariyam-CONT finger(III) III-cut-POT-PST.W
+‘Mariyam cut (her) finger by accident.’
+hed Ibrahim-i lʲoʎ-x-un ɣudul užaqa
+then Ibragim-ERG plough-CAUS-PST.UW field boy.CONT
+‘Then Ibragim made the boy plough the field.’
+hobože hibo-q’e de l-i-yalu ʎIn iʎ-in ise aʎa-ł-ɣul os-un ø-oⁿk’-a gobi diqo idu c’ali-n diqo l-eq-bi ʎɨn
+now what-QUES 1SG.ERG IV-do-DELIB QUOT say-PST.UW that.OBL.ERG village.OBL-INTER-VERS money-AND I-go-INF be.PRS.NEG 1SG.CONT this study(IV)-AND 1SG.CONT IV-be.able-NEG QUOT
+‘He said: now what will I do, I do not have money to go back to the village and I could not manage with this studying.’
+idu dublo mˤaʎ’e-qo eⁿq’ˤo goli ʎɨn iʎ-in łiłuk’á
+this 2SG.GEN2 lip.OBL-CONT(ESS) blood be.PRS QUOT say-PST.UW witch.OBL.ERG
+‘“There is blood on your lip,” the witch said.’
+abaxar-i m-oc-un iłe-s kode ɣono-qo-l
+neighbor-ERG III-tie-PST.UW that.OBL-GEN1 hair(III).ABS tree.OBL-CONT-LAT
+‘The neighbor tied her hair to the tree.’
+l-eɣ-un ise exena-ba-n omˤoq’ˤe-ʎ’o-zi bočka-ma-l kukku-n čaʎ-un q’udu ø-eč-un
+IV-take-PFV.CVB that.OBL.ERG sack.OBL-PL.ABS-AND donkey-SUP-ABL barrel-IN-LAT flour-AND pour-PFV.CVB down I-sit-PST.UW
+‘He took the sacks from the donkey, poured out the flour into the barrel and sat down.’
+b-ot’q’-un boc’o eⁿš-ɣo-li
+III-come-PST.UW wolf(III) apple-APUD-LAT
+‘The wolf came near the apple tree.’
+ø-oⁿk’-un idu uže obu-t’-ɣo-ul
+I-go-PST.UW this boy(I).ABS father-OBL-APUD-VERS
+‘This boy went near the father.’
+hobože isul bulh-un idu himon
+now that.LAT understand-PST.UW this thing
+‘Now he understood this thing.’
+do ø-uh-uq’arʎ’a mižul žibžibis co-n qʷa-yin himon goli
+1SG.ABS I-die-TEMP 2PL.LAT each.GEN1 name-AND write-PFV.CVB thing be.PRS
+‘When I die, there is a thing for three of you, with your names written (on it).’
+dilʲ iʎ-o ʎɨn iⁿya-yun uže
+1SG.LAT give-IMP QUOT cry-PST.UW boy
+‘“Give it to me,” the boy cried.’
+y-ez-un abaxar-i kad ɣon-o-ł-ul
+II-take-PST.UW neighbor-ERG girl(II).ABS forest-OBL-INTER-VERS
+‘The neighbor took the girl to (in the direction of) the forest.’
+zabaykalskiy huⁿne goli ono ʎibir-ʎ’o-ɣul b-eq-dow
+Zabaykal road(III) be.PRS there Siberia-SUP-VERS III-happen-GNT.PTCP
+‘There is a Zabaykal road which goes to (in the direction of) Siberia.’
+hos ħažiyaw ø-oⁿk’-še ø-eč-un iseiso omˤoq’ˤe-n gˤan-un awlaq-ʎ’a-zi ʎ’iho-l
+one Hadji(I) I-go-IPFV.CVB I-be-PST.UW REFL.GEN1 donkey-AND pull-PFV.CVB plain-SUP-ABL far.away-LAT
+‘Pulling his donkey, Hadji went from one place to the other.’
+aⁿka l-eqq-uč qarpuz-a-ma-zi mˤgɣul qˤe k’oʎ-i
+hole(IV) IV-happen-IMM.ANTR water.melon-OBL-IN-ABL outside.VERS hare jump-PST.W
+‘As soon as (I) made a hole, the hare jumped out of the watermelon.’
+ʎultan-i iso welesiped Kazaxstan-ʎ’a-z n-eq’q’-u diɣol iʎ-še l-eč-i
+Sultan-ERG that.GEN1 bicycle(IV) Kazakhstan-SUP-ABL IV-bring-PST.PTCP 1SG.APUD.LAT give-IPFV.CVB IV-be-PST.W
+‘Sultan gave me his bicycle which he has brought from Kazakhstan.’
+ilʲu-l dub-lo mok’o-ʎ’o-ɣužaz m-ok’-a hos huⁿne-ci-n iʎ-o ʎɨn iʎ-in ɨs-na-za
+1PL.OBL-LAT 2SG.OBL-GEN2 place-SUP-TRANSL HPL-go-INF one path-PART-AND give-IMP QUOT say-PST.UW brother-PL-PL.OBL.ERG
+‘“You let us go through your road,” the brothers said.’
+aq-ɣa ø-ot’q’-aʎa gił-ɣul ø-eqb-a atɣul aka-ma-užaz guc’-un žu
+house-APUD I-come-ANTR inside-VERS I-begin-INF before window-IN-TRANSL look-PST.UW that.ABS
+‘When he came near the house, and before going inside, he looked through the window.’
+Muħamad qod-o-ɣo-q’a ø-oⁿk’-i
+Magomed(I) wall-OBL-APUD-TERM I-go-PST.W
+‘Magomed almost reached the wall.’ (lit. reached until the wall)
+n-ežž-u ɣon ʎ’u-n-ʎ’o-q’a l-ot’q’-un
+IV-plant-PST.PTCP tree(IV) roof-OBL-SUP-TERM IV-come-PST.UW
+‘The planted tree reached till the roof.’
+ʎobo-ʎ’o-q’a ílʲo iłe-ł-q’a b-eč-i
+afternoon-SUP-TERM 1PL.ABS that.OBL-INTER-TERM HPL-be-PST.W
+‘We waited for her until the afternoon.’
+dilʲlʲo hˤamˤaɣˤé Bežt’a aumru b-i-še
+1SG.GEN2 friend.OBL.ERG Bezhta life(III) III-do-PRS
+‘My friend lives in Bezhta.’
+žu K’oʎoqo-q’a ø-oⁿk’-i
+that.ABS Kwantlada.CONT-TERM I-go-PST.W
+‘He came up to Kwantlada.’
+ɨʎ’o ílʲo Iqqo-ɣul m-ok’-i Avali-ɣužaz
+last.year 1PL.ABS Inkhokwari.CONT-VERS HPL-go-PST.W Agvali-TRANSL
+‘Last year we went to Inkhokwari through Agvali.’
+žu q’ala ihoʎ-dow žik’o ø-eč-un bogožes
+that.ABS children feed-GNT.PTCP man(I) I-be-PST.UW Bagwalal.GEN1
+‘This was a Bagwalal man who took care of these children.’
+dilʲ k’oʎožes mok’o b-ak-še
+1SG.LAT Kwantlada.OBL.GEN1 place(III) III-see-PRS
+‘I see Kwantlada village.’
+dilʲ K’oʎoqo-so mok’o geq
+1SG.LAT Kwantlada.CONT.ESS-DEF place like.GNT
+‘I like Kwantlada place.’
+dilʲ K’oʎoqo y-eč-a geq
+1SG.LAT Kwantlada.CONT.ESS II-be-INF like.GNT
+‘I (female) like being in Kwantlada.’
+diyo uže ø-uxala goli
+1SG.GEN1 boy(I).ABS I-long be.PRS
+‘My son is tall.’
+y-uq’ˤu-so y-ot’q’-i
+II-big-DEF II-come-PST.W
+‘The eldest (girl) came.’
+ø-ogu obu
+I-good father(I)
+‘good father’
+y-ogu kad
+II-good girl(II)
+‘good girl’
+b-ogu zihe
+III-good cow(III)
+‘good word’
+l-ogu lože
+IV-good word(IV)
+‘good cow’
+y-ogu ʎib
+V-good year(V)
+‘good year’
+b-ogu-t’a žik’o-bo
+HPL-good-PL man-PL.ABS
+‘good men’
+l-ogu-t’a mači-bo
+NHPL-good-PL shoe-PL.ABS
+‘good shoes’
+žu ø-uxala gobi
+that.ABS I-long be.PRS.NEG
+‘He is not tall.’
+žu razi (raziya-w) goli eⁿdu ø-eč-a
+that.ABS agreed (agreed-I) be.PRS inside I-be-INF
+‘He agreed to stay at home.’
+žu raziya-w žik’o goli
+that.ABS agreed-I man(I) be.PRS
+‘He is a content man.’
+idu soyro b-ogu goli
+this horse(III) III-good be.PRS
+‘This horse is good.’
+y-ogo kand-i bataxu y-i-yi
+II-good.OBL girl(II).OBL-ERG bread(V) V-do-PST.W
+‘The good girl made bread.’
+y-ow kand-i bataxu y-i-yi
+II-good girl(II).OBL-ERG bread(V) V-do-PST.W
+‘The good girl made bread.’
+ø-uq’ˤu-lo iʎ-in ik’sew-lo-qo-l hibo ʎɨn l-us-i kaɣat-a-ʎ’a-l qʷa-yin
+I-big-OBL.ERG say-PST.UW small-OBL-CONT-LAT what QUOT IV-find-PST.W letter-OBL-SUP-LAT write-PFV.CVB
+‘The older one said to the younger one, “What was written in the letter?”’
+žu bercina-y goli
+that.ABS beautiful-II be.PRS
+‘She is beautiful.’
+žu di-ʎ’o-zi bercina-y goli
+that.ABS 1SG.OBL-SUP-ABL beautiful-II be.PRS
+‘She is more beautiful than me.’
+žu heč’č’e bercina-y goli
+that.ABS most beautiful-II be.PRS
+‘She is the most beautiful.’
+ise de b-ezzo-ʎ’o-zi-n bercina-b heⁿše b-ez-i
+that.OBL.ERG 1SG.ERG III-buy.PST.PTCP.OBL-SUP-ABL-AND beautiful-III book(III) III-buy-PST.W
+‘He bought a more beautiful book than the one I bought.’
+užá ɨstɨ-lo eze haʎ-ɨn
+boy.OBL.ERG sibling.OBL-GEN2 in.the.eye hit-PST.UW
+‘The boy hit (his) brother’s eye.’
+dilʲlʲo zɨze-l t’ut’ m-ok’-i
+1SG.GEN2 in.the.mouth-LAT fly(III) III-go-PST.W
+‘A fly flew into my mouth.’
+gamušaza gˤan-un l-eɣ-un žu himon eze-zi
+buffalo.PL.OBL.ERG pull-PFV.CVB IV-take-PST.UW that.ABS thing(IV) in.the.eye-ABL
+‘The buffalos pulled and took that thing out of the eye.’
+mo hobode ɣon-o-ʎ ø-eč-e ʎIn iʎ-in nartaw-i obu-t’-qo-l
+2SG.ABS here tree-OBL-SUB I-be-IMP QUOT say-PST.UW giant-ERG father-OBL-CONT-LAT
+‘The giant said to the father, “Stay here under this tree.”’
+hobode mok’o-ʎ’o q’ˤʷana t’ala-s mina b-i-yo dilʲ
+this place-SUP two.OBL floor-GEN1 house(III) III-do-IMP 1SG.LAT
+‘Build for me a big two-story house at this place.’
+homone hos xalq’i b-uʎ-un b-ak-še
+there one people HPL-gether-PFV.CVB HPL-see-PRS
+‘I see people that gathered there.’
+homone-l lac’a-n gul-o do y-ux-še-da goli kok-a
+there-LAT food-AND put-IMP 1SG.ABS II-go-PRS-PART be.PRS eat-INF
+‘Put the food over there, I will come to eat.’
+y-aⁿɣ-un iʎ-in ise do homone azbar-la mada-ʎ gul-o ʎɨn
+V-open-PFV.CVB say-PST.UW that.OBL.ERG 1SG.ABS that yard-GEN2 outside-SUB put-IMP QUOT
+‘Having opened (the box), he said to bring him to that yard (of the khan's).
+b-ux-un hed boc’o ono ʎ’olo-z ʎ’iho-li omˤoq’ˤe-ɣo-li
+III-go-PST.UW then wolf(III) there up-ABL far.away-LAT donkey-APUD-LAT
+‘Then the wolf went from there to the donkey.’
+omˤoq’ˤe ʎ’olo-ɣul b-ah-še gollu ˤōⁿˤōʎ-un
+donkey(III) up-VERS III-climb-IPFV.CVB be.PRS.PTCP bray-PST.UW
+‘When the donkey went up (the hill), he brayed.’
+durid-aʎa y-ek’l-un ħono-č gˤanda-ma-l gił-ɣul
+run-ANTR II-fall-PST.UW three-COLL pit.OBL-IN-LAT down-VERS
+‘When (they) ran, all three fell into the pit.’
+m-eʎ’-un eⁿdu-ɣul ɣine-n uže-n
+HPL-go-PST.UW inside-VERS woman(II)-AND boy(I)-AND
+‘The woman and the boy went home.’
+hed Mallarasan ø-oⁿk’-un lol-bo l-ek’ek’-še eⁿdu-l
+then Malla.rasan(I) I-go-PST.UW foot.OBL-PL.ABS NHPL-hit.DUR-IPFV.CVB inside-LAT
+‘Then Malla-Rasan came in banging his feet on the ground.’
+eⁿdu-l žu gul-aʎa ø-ot’q’-un žu dibiržik’o mada-ʎ’a-l
+inside-LAT that.ABS put-ANTR I-come-PST.UW that.ABS mullah(I) threshold-SUP-LAT
+‘When they brought him home, mullah came to his place.’
+dubul soyro ɣolʎ’o mada-ha b-us-a goli ʎun iʎ-in užá
+2SG.LAT horse(III) morning.SUP outside-AD III-find-INF be.PRS QUOT say-PST.UW boy.OBL.ERG
+‘“You will find the horse outside in the morning,” the boy said.’
+uže-n obu-n m-eʎ’-ɨn hed miq’e-ɣul-in
+boy(I)-AND father(I)-AND HPL-go-PST.UW then far.away-VERS-AND
+‘Then the son and the father went far away.’
+b-ux-un ʎ’olo-z ʎ’iho-l b-ux-šezuq’un b-us-un iłe-l soyro
+III-go-PFV.CVB up-ABL down.hill-LAT III-go-DURAT III-find-PST.UW that.OBL-LAT horse(III)
+‘When (donkey) went from uphill down the hill, (donkey) met a horse.’
+ilʲó aʎ ʎilʲo goli
+1PL.GEN1 village down.the.plain be.PRS
+‘Our village is down the plain.’
+m-eʎ’-še b-eč-In huⁿne-ho ʎilʲo-l
+HPL-go-PRS HPL-be-PST.UW road-AD down-LAT
+‘(They) went down along the road.’
+ħi|iʎ-un ono-ɣul durid-in ide-ul durid-in idu soyro idu boc’o b-akb-aʎa
+neigh-PFV.CVB there-VERS run-PFV.CVB here-VERS run-PST.UW this horse(III) this wolf(III) III-see-ANTR
+‘This horse neighed and ran from there to here, when the horse saw this wolf.’
+l-ešt’-ɨn ise q’ˤem ono-l
+IV-let-PST.UW that.OBL.ERG head(IV) there-LAT
+‘He put his head in there.’
+ono de n-ež-i qarpuz
+there 1SG.ERG IV-plant-PST.W water.melon(IV)
+‘There I planted watermelon.’
+mo hobože žohol iłe mołmołł-u l-i-yin ø-eč-e
+2SG.ABS now after that.OBL.ERG teach.ITER-PST.PTCP IV-do-PFV.CVB I-be-IMP
+‘Now from this moment you stay and do what she teaches you.’
+zōb-ɣul ʎuxxo-zu-l saxłi iʎ-oʎo
+behind-VERS stay.OBL.PST.PTCP-OBL-LAT health give-OPT
+‘May those who are left behind be healthy!’ (said at the funeral to the relatives as condolence)
+ise kad žoquža-ɣul k’erek’-i
+that.OBL.ERG girl behind-VERS drive.away-PST.W
+‘He sent the girl away.’
+atɣuža-ul ø-uʎ-o
+forward-VERS I-bend-IMP
+‘Turn forward!’
+de uže atɣuža-l ø-ešt’-i
+1SG.ERG boy(I) forward-LAT I-let-PST.W
+‘I sent a boy ahead.’
+idu-n b-eɣ-un bexan-ɨn žohoq’ˤemul m-eq’-un
+this-AND III-sell-PFV.CVB bridle(III)-AND backwards III-bring-PST.UW
+‘He sold the horse and brought the bridle back.’
+guc’-un idu iłeqol l-ak-un isu-l iłe-s žohoq’ˤemɨl lʲ-uʎʎ-u lol-bo
+look-PFV.CVB this.ABS that.CONT.LAT NHPL-see-PST.UW that.OBL-LAT that.OBL-GEN1 backwards NHPL-bend-PST.PTCP leg.OBL-PL.ABS
+‘When he looked at her, he saw her crooked legs.’ (or lit. backwards bent legs)
+zzu m-eʎ’-še b-eč-aʎa uže žeq’ul ø-eč-i
+that.PL.(P)ABS HPL-go-PRS HPL-be-ANTR boy(I) backwards I-be-PST.W
+‘When they went, and the boy stayed behind.’
+bit’t’e is-i ise
+correct say-PST.W that.OBL.ERG
+‘He said right.’
+bit’t’enuq’ul y-oⁿk’-o
+straight II-go-IMP
+‘Go straight forward!’ (i.e. go straight on the line)
+bit’t’el ø-eⁿxe-yo
+straight I-go-IMP
+‘Go straight!’ (i.e. not shaking from side to side)
+b-iš-in q’udu-l m-eʎ’-un
+III-divide-PFV.CVB down-LAT III-go-PST.UW
+‘Breaking apart, (the apple) fell down.
+m-eʎ’-un hada alaxʎ’al heⁿhe-mo-lo ɣon-o-ʎ q’udu b-eč-un
+HPL-go-PFV.CVB one.OBL waste.land.SUP.LAT pear-OBL-GEN2 tree-OBL-SUB down HPL-be-PST.UW
+‘When (they) came to the waste land, (they) sat down under the pear tree.’
+y-axxač y-oⁿk’-un idu ɣine goʎ’-un
+II-back.again II-go-PFV.CVB this woman(II) call-PST.UW
+‘This woman went back again and called.’
+r-axxač išet’-i ło n-eq’-i
+IV-back.again mother.OBL-ERG water(IV) IV-bring-PST.W
+‘The mother brought the water back again.’
+gul-o heⁿše b-oʎoʎ’o ustur-ʎ’o
+put-IMP book(III) III-in.middle chair-SUP
+‘Put the book in the middle on the chair!’
+ø-axxač uže-n ø-eq-un ø-ot’q’-aʎa ø-ixxid-in obu isuqol hobot’un aluk’a soyro b-eč-i žahaʎ’a-n ʎɨn
+I-back.again boy(I)-AND I-become-PFV.CVB I-come-ANTR I-scold-PST.UW father(I) that.CONT.LAT like.this white horse(III) III-be-PST.W again-AND QUOT
+‘When the horse turned into the boy again, the father scolded the boy saying that the white horse had come again.’
+zamana m-eʎ’-aʎa ø-ešt’-un žahaʎ’a-n soyro b-eɣʷ-a
+time(III) III-go-ANTR I-let-PST.UW again-AND horse(III) III-sell-INF
+‘When some time passed, (boy) sent (him) again to sell the horse.’
+hobot’un iłe iʎ-aʎa žu žik’o kukkołsi ø-eq-un ø-ik-in
+like.this that.OBL.ERG say-ANTR that.ABS man(I) flour.INTER.ABL I-happen-PFV.CVB I-run-PST.UW
+‘When she said so, the man came out of the flour and ran away.’
+o<y>ne hos kad y-eč-i
+<II>there one girl II-be-PST.W
+‘There was one girl.’
+a<w>de-l guc’-a hobo ʎun iʎ-in ise xanqal
+<I>here-LAT look-INF come QUOT say-PST.UW that.OBL.ERG khan.CONT.LAT
+‘“Come here to have a look,” he said to the khan.’
+ise lac’a a<r>de-zi ono-ɣul l-ez-i
+that.OBL.ERG food(IV) <IV>here-ABL there-VERS IV-take-PST.W
+‘He took the food from here to there.’
+a<w>e a<w>su-ɣo ø-ałaq’u ø-eč-i žu uže
+<I>here <I>this.OBL-APUD I-alike I-be-PST.W that.ABS boy(I)
+‘Here, this boy was like him.’
+a<r>e homondu-č šiʎ’u l-eč-i diyo
+<IV>here such-EMPH cloth(IV) IV-be-PST.W 1SG.GEN1
+‘Here, my cloth was like this.’
+a<y>e žu y-ak-še dubul
+<II>here that.ABS II-see-PRS 2SG.LAT
+‘Here, you see her.’
+o<w>ne-l ø-oⁿk’-o
+<I>there-LAT I-go-IMP
+‘Go there!’
+o<w>ne ʎ’iho hosunu diyo us-un goli
+<I>there sideward other 1SG.GEN1 sibling(I)-AND be.PRS
+‘There is my brother over there.’
+o<y>e žu ɣine
+<II>there that.ABS woman(II)
+‘There, that woman.’
+o<w>e qarpuz tIʎ-dow žik’o ø-ot’q’-i
+<I>there water.melon give-GNT.PTCP man(I) I-come-PST.W
+‘There, the man who sells watermelon came.’
+b-oʎo bada-n b-ut’-un diyo muxa-n łuq-un
+III-apart sack(III)-AND III-divide-PFV.CVB 1SG.GEN1 tale-AND finish-PST.UW
+‘My sack is torn apart, and the tale finished.’
+obu-t’-i soyro b-oʎo gul-i
+father-OBL-ERG horse(III) III-apart put-PST.W
+‘The father bet on the horse.’
+žide šiʎ’u l-ez-i l-oʎo-l
+that.PL(D).ERG clothes(IV) IV-buy-PST.W IV-apart-LAT
+‘They bought clothes, each paying half of the price.’ / ‘They bought clothes in order to wear them together.’
+hibo l-i-yi me
+what IV-do-PST.W 2SG.ERG
+-‘What did you do?’
+t’iri-n l-i-bi
+nothing-AND IV-do-NEG
+-‘I did nothing.’
+ilʲlʲo išet’ɨs ondu lože l-eč-bi
+1PL.GEN2 mother.GEN1 such voice(IV) IV-be-PST.NEG
+‘Our mother didn't have such a voice <...>.’
+b-i-še hobondu q’ut’i ʎun iʎ-in kandaza
+III-do-PRS such deal(III) QUOT say-PST.UW girl.PL.OBL.ERG
+‘“We agree on such a deal,”- the girls said.’
+heč’č’e ø-uq’ˤulo-l-in ø-oʎoʎ’o-lo-l-in mesed-is sahi b-us-un
+most I-big.OBL-LAT-AND I-in.middle-OBL-LAT-AND gold-GEN1 measure(III) III-find-PST.UW
+‘The eldest and the middle (brothers) found the measure of gold.’
+žik’be miq’e-so baydan m-ež-i
+man.OBL.ERG far.away-DEF field(III) III-plant-PST.W
+‘The man planted the furthest field.’
+ø-oʎoʎ’o-so-ho y-oʎoʎ’o-so y-ez-un
+I-in.middle-DEF-APUD II-in.middle-DEF II-take-PST.UW
+‘The middle (brother) married the (other) middle (sister).’
+ɣolʎ’o q’arʎ’a-č ø-ah-un c’odora-w aⁿc-ma-la žoq’uža cuc-an cuc-un ø-eč-un
+morning.SUP early-EMPH I-stand-PFV.CVB clever-I door-OBL-GEN2 behind hide-RED hide-PFV.CVB I-be-PST.UW
+‘The clever one got up early in the morning hiding himself behind the door.’
+ɣobo-ʎ’o ur-a-ba l-eč-i
+pile-SUP stone-OBL-PL.ABS NHPL-be-PST.W
+‘There were stones on the pile.’
+ɣobo-ʎ’o ʎ’olo ur-a-ba l-eč-i
+pile-SUP above stone-OBL-PL.ABS NHPL-be-PST.W
+‘There were stones on the top of the pile.’
+žu žik’o get-lo ʎ’olo ø-uk’-un ø-eč-aʎa mus b-ek’l-un
+that.ABS man(I) yoke-GEN2 over I-bend-PFV.CVB I-be-ANTR hair(III) III-fall-PST.UW
+‘When the man sat on the top of the yoke bending, (his) hair had fallen <...>.’
+b-ak-un łe-ł gił eⁿš l-ešt’-ɨn liʎ’a b-oq-un-ay eⁿš
+III-see-PFV.CVB water.OBL-INTER down apple(III) IV-let-PST.UW arm(IV) III-catch-PST.UW-NEG apple(III)
+‘(He) saw an apple in the water, let out his hand, but didn't catch an apple.’
+iso xuy tuqq-u ʎar-la ɣiná lac’a-la-s podnos karavat-ɨʎ gił gul-un
+that.GEN1 noise hear-PST.PTCP kunak-GEN2 woman.OBL.ERG food-OBL-GEN1 tray bed-SUB down put-PST.UW
+‘When (she) heard his noise, the kunak’s wife put the tray with food under the bed.’
+łay-ʎ’o-l ø-ot’q’-aʎa ɣon-o-ʎ gił ø-us-un isu-l
+consciousness-SUP-LAT I-come-ANTR tree-OBL-SUB down I-find-PST.UW that.OBL-LAT
+that.OBL-LAT ‘When (he) regained consciousness, he found (himself) under the tree.’
+ø-oⁿk’-un idu ɣina-la žoho
+I-go-PST.UW this(I) woman.OBL-GEN2 behind
+‘He went after his wife.’
+omˤoq’ˤe-lo mok’o-ʎ’o ø-oⁿcc-u-so žik’o ħažiyaw-la žohžoho ø-oⁿk’-še ø-eč-un
+donkey-GEN2 place-SUP I-tie-PST.PTCP-DEF man(I) Hadji-GEN2 RED.behind I-go-IPFV.CVB I-be-PST.UW
+‘Another man that was tied instead of the donkey went after Hadji.’
+hoⁿq’osa Mallarasan omˤoq’ˤe-n ħadurłok’-un ø-oⁿk’-un ɣonołul lɨdo-lo žoho
+one.day Malla.rasan donkey-AND prepare-PFV.CVB I-go-PST.UW forest.INTER.VERS firewood-GEN2 behind
+‘One day Malla-Rasan prepared a donkey and went to the forest for the firewood.’
+di-lʲlʲo aq-la oge ɣonur goli
+1SG.OBL-GEN2 house-GEN2 near garden be.PRS
+‘There is a garden near my house.’
+isulo mašina-ɣa oge de taraxtur b-ah-a b-eč-x-i
+that.GEN2 car-APUD near 1SG.ERG tractor(III) III-stand-INF III-be-CAUS-PST.W
+‘I stopped my tractor close to his car.’
+y-uʎ-un aq-qa solo goʎ’-un
+II-spin-PFV.CVB room-CONT around call-PST.UW
+‘Spinning around the room, (she) called.’
+b-eč-un izo hadal aumru b-i-še
+HPL-be-PST.UW that.PL.(P)ABS together life(III) III-do-IPFV.CVB
+‘They were living together.’
+do-n ø-ux-še dubuł hadal ħono-č m-eʎ’-še ílʲo ʎɨn iʎ-in
+1SG.ABS-AND I-come-PRS 2SG.INTER together three-COLL HPL-go-PRS 1PL.ABS QUOT say-PST.UW
+‘“I will also go together with you, we all three are coming,” (he) said.’
+di-lʲlʲo dandil haca pɨʎ-še l-eč-i
+1SG.OBL-GEN2 towards wind(IV) blow-IPFV.CVB IV-be-PST.W
+‘The wind was blowing into my direction (i.e. into my face).’
+ħalt’i-ʎ’o-z y-ux-šezuq’un iłelo dandil k’it’-is huⁿho y-ux-še y-eč-i
+work-SUP-ABL II-come-DURAT that.GEN2 towards cat-GEN1 kitten(V) V-come-IPFV.CVB V-be-PST.W
+‘When she was coming back from the work, she met a kitten on her way.’
+obu-t’-i q’ˤʷana-č buʎu-lo l-oʎoʎ’o kert’i l-i-yi
+father-OBL-ERG two.OBL-COLL shed(III)-GEN2 IV-between fence(IV) IV-do-PST.W
+‘The father made a fence between two sheds.’
+izzulo ɣay-za-la lʲ-oʎoʎ’o kanaw goli
+that.PL.(P)GEN2 house-PL.OBL-GEN2 NHPL-between gutter(IV) be.PRS
+‘There is a gutter between their houses.’
+aq-ma lʲ-oʎonuq’a gul-un goli ustur
+room-IN IV-in.the.center put-PFV.CVB be.PRS chair(IV)
+‘The chair is put in the center of the room.’
+q’bat’a-ma y-oʎonuq’a y-ah-a y-eč-un kad y-eč-i
+street-IN II-in.the.center II-stand-INF III-be-PFV.CVB girl(II) II-be-PST.W
+‘The girl was standing in the center of the street.’
+dub-ʎ’o sabałɨn di-qo-l b-ixxid-i
+2SG.OBL-SUP thanks.to 1SG.OBL-CONT-LAT HPL-scold-PST.W
+‘I was scolded because of you.’
+mo sabałɨn di-qo-l b-ixxid-i
+2SG.ABS thanks.to 1SG.OBL-CONT-LAT HPL-scold-PST.W
+‘I was scolded because of you.’
+dandił-in hobože q’ut’i-ʎ’o roq’ihol idu q’ˤʷine-č žulik
+meet-PST.UW now deal-SUP according.to this two-COLL cheater
+‘Now two cheaters met according to the deal.’
+iłe heⁿše b-ez-i b-i-go q’ut’i-ʎ’o roq’ihol
+that.OBL.ERG book(III) III-buy-PST.W III-do-OBL.PST.PTCP deal-SUP according.to
+‘She bought the book according to the deal that was made.’
+žu žik’o ø-eč-un nišoho-n ɣolʎ’o-n dimmo-ʎ’o č’eyidd-u zik’o
+that.ABS man(I) I-be-PST.UW night.AD-AND morning.SUP-AND religion.OBL-SUP carry.out-PST.PTCP man(I)
+‘That man was making prayer day and night.’
+ise xan-ɨs bercina-y kad y-eč-un
+that.OBL khan-GEN1 beautiful-II daughter(II) II-be-PST.UW
+‘That khan had a beautiful daughter.’ [
+žide35 hadam-i b-uq’ˤu xabar b-i-yin b-eč-un
+that.PL.(D)OBL people-ERG III-big story(III) III-do-PFV.CVB III-be-PST.UW
+‘Those people made a big gossip.’
