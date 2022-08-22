@@ -10,13 +10,17 @@ class Chunker():
 	def _prepare_corpus(self):
 		prepared = self.corpus.replace("-"," ")
 		prepared = regex.sub(r"\s+","",prepared)
-		prepared = regex.split(r"[.,;:!?\n]",prepared)
+		# Alguns arquivos utilizam dois-pontos(:) para representar vogais longas...
+		# prepared = regex.split(r"[.,;:!?\n]",prepared)
+		prepared = regex.split(r"[.,;!?\n]",prepared)
 		return prepared
 
 	def _prepare_corpus_morphology(self):
 		prepared = self.corpus.replace("-","")
 		prepared = regex.sub(r"\s+"," ",prepared)
-		prepared = regex.split(r"[\s.,;:!?\n]",prepared)
+		# Alguns arquivos utilizam dois-pontos(:) para representar vogais longas...
+		# prepared = regex.split(r"[\s.,;:!?\n]",prepared)
+		prepared = regex.split(r"[\s.,;!?\n]",prepared)
 		return prepared
 
 	def _create_lexicon(self, prepared_corpus):

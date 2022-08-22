@@ -48,6 +48,10 @@ def run(linguist_words, n_iterations):
     linguist_lexicon, sizeof_linguist_lexicon = create_lexicon(linguist_words)
     chunker_lexicon, chunker_words = run_stage(linguist_words, n_iterations)
     chunker_words = ['-'.join(word) for word in chunker_words]
+    # Descomentar para detectar problemas...
+    # print(len(chunker_words))
+    # print(len(linguist_words))
+    # print(list(zip(chunker_words,linguist_words))
     chunker_lexicon = set(chunker_lexicon.lexicon.keys())
     sizeof_chunker_lexicon = len(chunker_lexicon)
     xi, gamma, common_lexicon = compare_lexicons(chunker_lexicon, linguist_lexicon)
